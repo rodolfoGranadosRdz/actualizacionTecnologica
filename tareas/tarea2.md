@@ -70,6 +70,7 @@ prueba_sha256.txt
 ```sh
 ubuntu@ubuntu2004  ~/Desktop  pwd
 /home/ubuntu/Desktop
+```
 ```sh
 ubuntu@ubuntu2004  ~/Desktop  cd ..
 ```

@@ -65,4 +65,15 @@ https://api.binance.com/api/v1/ticker/24hr?symbol=XRPBTC
 
 ### Desarrollo en cascada
 
+El desarrollo en cascada es un enfoque secuencial y lineal para el desarrollo de software, que sigue un flujo de trabajo predefinido en el que cada fase debe ser completada antes de pasar a la siguiente. Este enfoque se llama "cascada" porque el progreso del desarrollo se representa gráficamente como una cascada descendente a través de las fases del proyecto.
+
+Las fases son las siguientes:
+
+- Requisitos
+- Diseño
+- Implementación
+- Pruebas
+- Despliegue
+- Mantenimiento
+
 

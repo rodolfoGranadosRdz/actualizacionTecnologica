@@ -55,6 +55,6 @@ ubuntu@ubuntu2004 ~/Desktop sha256sum prueba_sha256.txt
 
 # POSTMAN
 
-![image](https://github.com/rodolfoGranadosRdz/actualizacionTecnologica/assets/146800243/deff5ed3-e8f6-46bc-9131-f9c29f4a55c5)
+![image](https://github.com/rodolfoGranadosRdz/actualizacionTecnologica/tareas/postman1.png)
 
 

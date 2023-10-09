@@ -1,55 +1,66 @@
-# MD5 y SHA256
- 
-```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images md5sum Galaxy.jpg
-8ab9d59dab1c44cabe8d5b1d9f51b20e  Galaxy.jpg
-```
-
-```sh 
-ubuntu@ubuntu2004 ~/Pictures/background-images sha256sum Galaxy.jpg
-08ada8aa73cd77760b854037076ef06b26717f084ff26214725c2277010b894b  Galaxy.jpg
-```
+# COMANDOS LINUX
 
 ```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images sha256sum Galaxy_copia.jpg
-08ada8aa73cd77760b854037076ef06b26717f084ff26214725c2277010b894b  Galaxy_copia.jpg
+ubuntu@ubuntu2004  ~/Desktop  man mkdir
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images md5sum Galaxy.jpg
-8ab9d59dab1c44cabe8d5b1d9f51b20e  Galaxy.jpg
+ubuntu@ubuntu2004  ~/Desktop  whoami
+ubuntu
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images md5sum Galaxy_copia.jpg
-8ab9d59dab1c44cabe8d5b1d9f51b20e  Galaxy_copia.jpg
+ubuntu@ubuntu2004  ~/Desktop  history
+    1  nano .zshrc
+    2  exit
+    3  git clone https://github.com/powerline/fonts.git\n
+    4  cd fonts
+    5  ll
+    6  ./install.sh
+    7  exit
+    8  cd fonts
+    9  echo "x" > x.txt
+   10  git add .
+   11  ll
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images md5sum Saturn.jpg
-0edfe500b30c8507f34383d04c5836dd  Saturn.jpg
+ubuntu@ubuntu2004  ~/Desktop  ls
+prueba_sha256.txt
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Pictures/background-images sha256sum Saturn.jpg
-1c88182a5d86b77d8521122297ab9f89423351036add6c121a8eb7e1b6c503fe  Saturn.jpg
+ubuntu@ubuntu2004  ~/Desktop  pwd
+/home/ubuntu/Desktop
+```sh
+ubuntu@ubuntu2004  ~/Desktop  cd ..
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Desktop nano prueba_sha256.txt
+ubuntu@ubuntu2004  ~  pwd
+/home/ubuntu
 ```
- 
 ```sh
-ubuntu@ubuntu2004 ~/Desktop sha256sum prueba_sha256.txt
-a95e79e7d2110d16968e8933abaf1bc1244df086cea41a938be087d903fbb459  prueba_sha256.txt
+ubuntu@ubuntu2004  ~  cd Desktop
 ```
-
 ```sh
-ubuntu@ubuntu2004 ~/Desktop nano prueba_sha256.txt
-``` 
- 
+ubuntu@ubuntu2004  ~/Desktop  cat prueba_sha256.txt 
+Hola Rodolfo Granados
+```
 ```sh
-ubuntu@ubuntu2004 ~/Desktop sha256sum prueba_sha256.txt
-665ea3b11ffbcb2f401a1522f94c61e25166dfa2fb1875db39c3c5293949124d  prueba_sha256.txt
+ubuntu@ubuntu2004  ~/Desktop  mkdir prueba_dir
+```
+```sh
+ubuntu@ubuntu2004  ~/Desktop  ls
+prueba_dir  prueba_sha256.txt
+```
+```sh
+ubuntu@ubuntu2004  ~/Desktop  rmdir prueba_dir
+```
+```sh
+ubuntu@ubuntu2004  ~/Desktop  ls
+prueba_sha256.txt
+```
+```sh
+ubuntu@ubuntu2004  ~/Desktop  ll
+total 12
+drwxr-xr-x  2 ubuntu ubuntu 4096 oct  8 22:18 .
+drwxr-xr-x 31 ubuntu ubuntu 4096 oct  8 22:19 ..
+-rw-rw-r--  1 ubuntu ubuntu   22 oct  8 22:01 prueba_sha256.txt
 ```
 

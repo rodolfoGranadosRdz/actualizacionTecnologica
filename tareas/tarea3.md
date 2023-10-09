@@ -53,3 +53,8 @@ ubuntu@ubuntu2004 ~/Desktop sha256sum prueba_sha256.txt
 665ea3b11ffbcb2f401a1522f94c61e25166dfa2fb1875db39c3c5293949124d  prueba_sha256.txt
 ```
 
+# POSTMAN
+
+![image](https://github.com/rodolfoGranadosRdz/actualizacionTecnologica/assets/146800243/deff5ed3-e8f6-46bc-9131-f9c29f4a55c5)
+
+

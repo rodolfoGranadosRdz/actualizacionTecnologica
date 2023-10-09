@@ -2,7 +2,8 @@
  
 ```sh
  ubuntu@ubuntu2004  ~/Pictures/background-images  
- md5sum Galaxy.jpg 8ab9d59dab1c44cabe8d5b1d9f51b20e  Galaxy.jpg```
+ md5sum Galaxy.jpg 8ab9d59dab1c44cabe8d5b1d9f51b20e  Galaxy.jpg
+```
 
 - ```ubuntu@ubuntu2004  ~/Pictures/background-images  sha256sum Galaxy.jpg 08ada8aa73cd77760b854037076ef06b26717f084ff26214725c2277010b894b  Galaxy.jpg```
 

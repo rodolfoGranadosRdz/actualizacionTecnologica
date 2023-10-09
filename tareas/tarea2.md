@@ -21,3 +21,13 @@
 - ubuntu@ubuntu2004  ~/Pictures/background-images  sha256sum Saturn.jpg      
 1c88182a5d86b77d8521122297ab9f89423351036add6c121a8eb7e1b6c503fe  Saturn.jpg
 
+- ubuntu@ubuntu2004  ~/Desktop  nano prueba_sha256.txt
+ 
+- ubuntu@ubuntu2004  ~/Desktop  sha256sum prueba_sha256.txt 
+a95e79e7d2110d16968e8933abaf1bc1244df086cea41a938be087d903fbb459  prueba_sha256.txt
+
+- ubuntu@ubuntu2004  ~/Desktop  nano prueba_sha256.txt     
+ 
+- ubuntu@ubuntu2004  ~/Desktop  sha256sum prueba_sha256.txt
+665ea3b11ffbcb2f401a1522f94c61e25166dfa2fb1875db39c3c5293949124d  prueba_sha256.txt
+

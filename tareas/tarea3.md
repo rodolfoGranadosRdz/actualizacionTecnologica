@@ -76,4 +76,22 @@ Las fases son las siguientes:
 - Despliegue
 - Mantenimiento
 
+### UP (RUP)
+
+El Proceso Unificado (RUP - ) es un marco de trabajo de desarrollo de software que proporciona una estructura detallada para planificar, implementar y documentar el proceso del software. RUP es una metodología ampliamente utilizada que se basa en principios de desarrollo iterativo e incremental. Está dirigida por casos de uso, centrados en la arquitectura y guiados por riesgos. RUP proporciona una serie de mejores prácticas para el desarrollo de software y se centra en la mejora continua del proceso.
+
+### Extreme Programming
+
+Extreme Programming (XP) es una metodología ágil que se enfoca en la flexibilidad y la capacidad de respuesta a los cambios en los requisitos del cliente. XP promueve la comunicación cercana entre los desarrolladores y los clientes, pruebas frecuentes y desarrollo incremental. Algunos de los principios clave de XP incluyen la retroalimentación constante, la simplicidad, el trabajo en equipo, la mejora continua y la rápida adaptación a los cambios.
+
+### SCRUM
+
+Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y otros proyectos complejos. Se basa en principios iterativos e incrementales para gestionar y controlar las actividades de desarrollo. Scrum se enfoca en la colaboración, la flexibilidad para adaptarse a cambios y la entrega continua de productos de alta calidad.
+
+En Scrum, los proyectos se dividen en iteraciones fijas de tiempo llamadas "sprints", que suelen durar de una a cuatro semanas. Durante cada sprint, un equipo multifuncional trabaja para completar un conjunto de tareas priorizadas del "Product Backlog", que es una lista dinámica de características, mejoras y correcciones pendientes. Al final de cada sprint, se entrega un producto potencialmente utilizable.
+
+### SAFe
+
+SAFe, o Scaled Agile Framework, es un marco de trabajo ágil que proporciona estructura y orientación para las organizaciones que desean escalar y aplicar principios ágiles a gran escala. SAFe se centra en ayudar a las empresas a desarrollar, entregar y mantener sistemas y soluciones de software de alta calidad de manera ágil y eficiente. Este marco de trabajo se utiliza para escalar las prácticas ágiles y los principios lean a través de equipos y organizaciones enteras.
+
 

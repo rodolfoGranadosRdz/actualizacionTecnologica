@@ -55,6 +55,10 @@ ubuntu@ubuntu2004 ~/Desktop sha256sum prueba_sha256.txt
 
 # POSTMAN
 
+https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&hourly=temperature_2m 
 ![image](postman1.png)
+
+https://api.binance.com/api/v1/ticker/24hr?symbol=XRPBTC
+![image](postman2.png)
 
 

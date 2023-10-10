@@ -13,10 +13,11 @@ En Scrum, los proyectos se dividen en iteraciones fijas de tiempo llamadas "spri
 
 ## Ceremonias
 
-- Sprint Planning: Al comienzo de cada sprint, el equipo de desarrollo, el Scrum Master y el Product Owner se reúnen para planificar las tareas que se realizarán durante el sprint.
-- Daily Scrum: Una breve reunión diaria en la que el equipo de desarrollo actualiza el progreso del trabajo y discute cualquier obstáculo que pueda estar enfrentando.
-- Sprint Review: Al final de cada sprint, el equipo muestra las funcionalidades completadas al Product Owner y otros stakeholders para recibir retroalimentación.
-- Sprint Retrospective: Una reunión después de la revisión del sprint en la que el equipo reflexiona sobre el sprint y busca maneras de mejorar su eficiencia y calidad en el próximo sprint.
+- Sprint: Es un período de tiempo fijo (por lo general, de 1 a 4 semanas) durante el cual se desarrolla un incremento potencialmente entregable del producto.
+- Reunión de Planificación del Sprint: Al inicio de cada sprint, el equipo selecciona las tareas del Product Backlog para el Sprint Backlog y establece los objetivos para el sprint.
+- Reunión diaria (Daily Scrum): Es una breve reunión diaria donde el equipo de desarrollo comparte actualizaciones sobre su progreso, desafíos y planes para el próximo día.
+- Revisión del Sprint: Al final de cada sprint, el equipo muestra el incremento desarrollado durante el sprint y recibe retroalimentación de los stakeholders.
+- Retrospectiva del Sprint: Después de la Revisión del Sprint, el equipo se reúne para reflexionar sobre el sprint y discutir qué salió bien, qué salió mal y cómo pueden mejorar en el próximo sprint.
 
 ## Artefactos
 

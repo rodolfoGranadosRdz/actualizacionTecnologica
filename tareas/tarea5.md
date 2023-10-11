@@ -19,11 +19,17 @@ Los patrones de diseño sirven como soluciones probadas y documentadas para prob
 - Patrones de Diseño: Estos patrones son soluciones específicas a problemas de implementación del código, como cómo organizar las clases o cómo permitir la comunicación entre objetos.
 - Patrones Arquitectónicos: Los patrones arquitectónicos son de un nivel más alto. Se centran en la estructura global del sistema y en cómo los componentes interactúan a nivel de módulos, subsistemas y capas.
 
+***********************
+
 - Patrones de Diseño: Los patrones de diseño son más específicos y detallados. Se ocupan de problemas específicos dentro de una clase o un conjunto de clases.
 - Patrones Arquitectónicos: Los patrones arquitectónicos son más generales y se aplican a un nivel más alto. Se centran en la organización y estructura del sistema en su totalidad.
 
+***********************
+
 - Patrones de Diseño: Los patrones de diseño son aplicables a problemas de diseño a pequeña escala, como la estructura de clases y objetos y las interacciones entre ellos.
 - Patrones Arquitectónicos: Los patrones arquitectónicos son aplicables a problemas a gran escala, como la estructura general del sistema, la distribución y la escalabilidad.
+
+***********************
 
 - Patrones de Diseño: Algunos ejemplos de patrones de diseño incluyen el patrón Singleton, el patrón Observer y el patrón Factory Method.
 - Patrones Arquitectónicos: Algunos ejemplos de patrones arquitectónicos incluyen el patrón Modelo-Vista-Controlador (MVC), el patrón Cliente-Servidor y el patrón de Capas.

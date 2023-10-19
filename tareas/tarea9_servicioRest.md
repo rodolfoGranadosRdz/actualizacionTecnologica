@@ -8,7 +8,7 @@ Los servicios RESTful utilizan operaciones HTTP estándar, como GET, POST, PUT y
 
 1. Recursos (Resources): Los recursos son entidades que se pueden acceder o manipular a través del servicio REST. Un recurso puede ser cualquier cosa que tenga sentido en el contexto de la aplicación, como un objeto, un archivo, un servicio o cualquier otro tipo de dato.
 
-2. Identificador Uniforme (Uniform Resource Identifier - URI): Cada recurso en un servicio REST tiene un identificador único llamado URI. El URI es una cadena de caracteres que proporciona una forma estandarizada de identificar un recurso. Por ejemplo, https://api.example.com/users.
+2. Identificador Uniforme (Uniform Resource Identifier - URI): Cada recurso en un servicio REST tiene un identificador único llamado URI. El URI es una cadena de caracteres que proporciona una forma estandarizada de identificar un recurso.
 
 3. Métodos HTTP (HTTP Methods): Los métodos HTTP, como GET, POST, PUT, PATCH y DELETE, se utilizan para realizar operaciones en los recursos. Cada método tiene un significado específico en el contexto de un servicio REST:
    - GET: Se utiliza para recuperar datos de un recurso.

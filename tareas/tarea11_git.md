@@ -1,7 +1,7 @@
 # Commit
 Con este comando se guarda todos los cambios realizados en el proyecto o minisistema que se este trabajando, con una breve explicación de lo que se ha realizado de parte del usuario. El o los commit no se podrán sobreescribir. Se puede recordar los cambios a los que se les hizo commit en una fecha posterior o revertir a esa fecha(_"git checkout"_).
 
-# Rama
+# Branch
 Rama es el directorio principal del proyecto, o miniproyecto que se este trabajando.
 
 Dentro del mismo se puede:

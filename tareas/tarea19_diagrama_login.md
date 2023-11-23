@@ -1,3 +1,3 @@
 # Diagrama Login
 
-![image](Diagrama_login.drawio)
+![image](Diagrama_login.png)

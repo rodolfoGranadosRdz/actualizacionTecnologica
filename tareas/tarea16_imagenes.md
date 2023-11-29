@@ -1,3 +1,3 @@
 # IMÁGENES
 
-Se subieron las imagenes al sitio de Chambeaya.
+Se subieron las 20 imágenes al sitio de Chambeaya.
